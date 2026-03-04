@@ -47,6 +47,6 @@ vector_store/
 faiss_index/
 
 # Reports
-reports/
+
 *.pdf
 *.html
