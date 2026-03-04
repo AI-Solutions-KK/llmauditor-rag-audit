@@ -1,0 +1,38 @@
+# Employee Handbook - TechCorp Inc.
+
+## Company Overview
+TechCorp Inc. is a leading software development company founded in 2018. We specialize in enterprise SaaS solutions and employ over 250 people globally.
+
+## Work Hours and Attendance
+- Standard work hours: 9:00 AM to 5:00 PM, Monday through Friday
+- Flexible start times between 8:00 AM and 10:00 AM are permitted with manager approval
+- All employees must work a minimum of 40 hours per week
+- Lunch breaks are unpaid and must be at least 30 minutes
+- Remote work is available 2 days per week after 90-day probationary period
+
+## Code of Conduct
+- Professional behavior is expected at all times
+- Harassment, discrimination, or bullying will not be tolerated
+- Confidential information must be protected at all times
+- Personal use of company equipment should be minimal and appropriate
+- Social media posts should not reflect negatively on the company
+
+## Leave Policy  
+- Vacation days: 15 days per year for employees with 0-2 years experience
+- Vacation days: 20 days per year for employees with 3-5 years experience
+- Vacation days: 25 days per year for employees with 6+ years experience
+- Sick leave: 10 days per year (does not roll over)
+- Parental leave: 12 weeks paid for primary caregiver, 4 weeks for secondary caregiver
+
+## Disciplinary Actions
+- Verbal warning for minor infractions
+- Written warning for repeated or serious violations
+- Final written warning before termination
+- Immediate termination for gross misconduct including theft, violence, or breach of confidentiality
+
+## Technology and Security
+- All company devices must use approved antivirus software
+- Passwords must be at least 12 characters with special characters
+- Two-factor authentication is required for all business applications
+- Personal software installations require IT department approval
+- Data backup procedures must be followed weekly

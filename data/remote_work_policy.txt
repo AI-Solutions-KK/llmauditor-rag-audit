@@ -1,0 +1,52 @@
+# Remote Work Policy - TechCorp Inc.
+
+## Eligibility Requirements
+- Employees must complete 90-day probationary period before remote work eligibility
+- Good performance standing required (last review rating of "Meets Expectations" or higher)
+- Job role must be suitable for remote work (as determined by manager and HR)
+- Reliable internet connection with minimum 25 Mbps upload/download speed required
+- Dedicated workspace free from distractions
+
+## Remote Work Schedule Options
+- Hybrid schedule: 2-3 days remote per week (most common)
+- Full remote: Available for exceptional circumstances with VP approval
+- Temporary remote work: Available for medical reasons, weather, or family emergencies
+- Core collaboration hours: Must be available 10:00 AM - 2:00 PM EST for meetings
+- Time zone restrictions: Must work within 3 hours of EST
+
+## Equipment and Technology
+- Company laptop provided for all remote work
+- Monitor, keyboard, mouse available upon request
+- Internet stipend: $50/month for reliable broadband connection
+- Home office setup allowance: $500 one-time payment for desk and chair
+- VPN access mandatory for all company systems
+- Company phone or phone stipend provided for customer-facing roles
+
+## Communication Requirements
+- Daily check-ins with immediate supervisor required
+- Slack availability during core business hours mandatory
+- Video calls preferred over audio-only for team meetings
+- Response time expectation: 4 hours maximum during business hours
+- Weekly one-on-one meetings with manager (can be virtual)
+
+## Performance and Accountability
+- Same performance standards apply for remote and in-office work
+- Project deadlines and deliverables must be met consistently
+- Regular productivity check-ins with supervisor
+- Quarterly in-person meetings required for full remote employees
+- Performance improvement plan may limit remote work privileges
+
+## Security and Compliance
+- All company data must remain secure and confidential
+- Personal devices cannot be used for company work
+- Screen locks must activate after 10 minutes of inactivity  
+- Sensitive documents cannot be printed on personal printers
+- Video call backgrounds must be professional or blurred
+- Childcare arrangements required during work hours (children cannot be primary focus)
+
+## Office Access and Collaboration
+- Badge access maintained for all remote employees
+- Desk hoteling system for hybrid workers
+- Required office attendance: All-hands meetings, quarterly planning, team events
+- Advance notice preferred for planned office visits
+- Parking passes available for remote employees visiting office

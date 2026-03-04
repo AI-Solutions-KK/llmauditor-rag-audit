@@ -1,0 +1,36 @@
+# Sample Queries for RAG System Testing
+
+## Clear, Well-Documented Questions (Should have high confidence):
+1. How many vacation days do employees get after 3 years?
+2. What is the company match percentage for 401k contributions?
+3. What are the standard work hours at TechCorp?
+4. How long is the parental leave for primary caregivers?
+5. What is the minimum internet speed required for remote work?
+
+## Edge Cases / Ambiguous Questions (May have lower confidence):
+6. Can I work from home every day?
+7. What happens if I'm late to work frequently?
+8. How much can I spend on professional development?
+9. Do I need approval to install software on my laptop?
+10. What if I want to take more than 25 vacation days?
+
+## Questions Not Covered in Documents (Should trigger hallucination detection):
+11. What is our policy on cryptocurrency trading during work hours?
+12. Can employees bring pets to the office?
+13. What are the salary ranges for different positions?
+14. Do we have a policy on artificial intelligence usage?
+15. What is the process for reporting workplace harassment?
+
+## Complex Questions Requiring Multiple Sources:
+16. What benefits am I eligible for if I work remotely full-time?
+17. If I have 5 years experience, how much vacation can I take and what professional development budget do I have?
+18. What are all the requirements to become eligible for remote work?
+19. What insurance options are available and when can I enroll?
+20. What disciplinary actions might result from violating the remote work security policies?
+
+## Intentionally Problematic Questions (Testing error handling):
+21. [Empty question]
+22. How much does the CEO make?
+23. What's the best restaurant near the office?
+24. Can you help me with my personal tax filing?
+25. What's today's weather forecast?
